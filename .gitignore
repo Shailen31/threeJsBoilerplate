@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+node_modules
+*.log
+.DS_Store
+.vscode/
+=======
+node_modules
+*.log
+.DS_Store
+.vscode/
+>>>>>>> 62572c3e2b037ac2eb675c2a940418fa1f9bbd06
+.vs/
